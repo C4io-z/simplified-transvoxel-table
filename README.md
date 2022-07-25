@@ -1,8 +1,16 @@
 # transvoxel-table-in-a-single-array
 the same as the transvoxel table, but in a single array
 
+
+algoritimo originalmente descrito em: Lengyel, Eric. “Voxel-Based Terrain for Real-Time Virtual Simulations”. PhD diss., University of California at Davis, 2010.
+
+site: https://transvoxel.org
+
+
+
 tabela de transvoxel em um unnico array.
-poderia ser mais otimixado em questão de memoria, mas funcioona bem. 
+mais otimizada em de uso de memoria. Mais facil de usar do que a antiga.
+
 exemplo de como criar as faces para um dos casos:
 ```cpp
 
